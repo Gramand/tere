@@ -7,7 +7,7 @@ tecla.addEventListener('click', function(e) {
     e.preventDefault(); 
     audio1.play();
     setTimeout(function() {
-        window.location.href = 'https://github.com/Gramand/tere/blob/main/parabueins/negocio.html';
+        window.location.href = 'negocio.html';
       }, 3000);
   });
   
